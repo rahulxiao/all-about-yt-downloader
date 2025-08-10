@@ -1,0 +1,4 @@
+yt-dlp>=2023.12.30
+# Note: FFmpeg is also required for MP3 conversion
+# Download from: https://ffmpeg.org/download.html
+# Or install via: winget install ffmpeg (Windows) / brew install ffmpeg (macOS) / sudo apt install ffmpeg (Ubuntu) 
